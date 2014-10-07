@@ -26,7 +26,7 @@ public class Ejercicio6 {
         System.out.println("Pagado:");
         pagado=dato.nextFloat();
         total=((precio-pagado)/precio)*100;
-        System.out.println("Descuento%="+total);
+        System.out.println("Descuento= "+total+" %");
         
         
     }
